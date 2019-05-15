@@ -3,14 +3,14 @@ Search co-ordinate in polygon
 
 **TO RUN EXECUTE FOLLOWING COMMAND IN TERMINAL**
 ```
-$ git clone https://github.com/freakk101/honestyFood.git
-$ cd honestyFood && npm install
-$ cd frontend && npm install
+1) $ git clone https://github.com/freakk101/honestyFood.git
+2) $ cd honestyFood && npm install
+3) $ cd frontend && npm install
 ```
 ```
-$ npm start
+4) $ npm start
 ```
 **OPEN NEW TERMINAL TAB (cmd + T)**
 ```
-$ cd.. npm start
+5) $ cd.. npm start
 ```
